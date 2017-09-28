@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26730.12
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DesignPattern1", "DesignPattern1\DesignPattern1.vcxproj", "{C18EE735-5C9A-4BE6-8C54-5C0EA200778A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Strategy", "DesignPattern1\DesignPattern1.vcxproj", "{C18EE735-5C9A-4BE6-8C54-5C0EA200778A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ObserverPattern", "ObserverPattern\ObserverPattern.vcxproj", "{4C9E2F91-5F03-418F-8B08-EEA732AEC4B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{C18EE735-5C9A-4BE6-8C54-5C0EA200778A}.Release|x64.Build.0 = Release|x64
 		{C18EE735-5C9A-4BE6-8C54-5C0EA200778A}.Release|x86.ActiveCfg = Release|Win32
 		{C18EE735-5C9A-4BE6-8C54-5C0EA200778A}.Release|x86.Build.0 = Release|Win32
+		{4C9E2F91-5F03-418F-8B08-EEA732AEC4B8}.Debug|x64.ActiveCfg = Debug|x64
+		{4C9E2F91-5F03-418F-8B08-EEA732AEC4B8}.Debug|x64.Build.0 = Debug|x64
+		{4C9E2F91-5F03-418F-8B08-EEA732AEC4B8}.Debug|x86.ActiveCfg = Debug|Win32
+		{4C9E2F91-5F03-418F-8B08-EEA732AEC4B8}.Debug|x86.Build.0 = Debug|Win32
+		{4C9E2F91-5F03-418F-8B08-EEA732AEC4B8}.Release|x64.ActiveCfg = Release|x64
+		{4C9E2F91-5F03-418F-8B08-EEA732AEC4B8}.Release|x64.Build.0 = Release|x64
+		{4C9E2F91-5F03-418F-8B08-EEA732AEC4B8}.Release|x86.ActiveCfg = Release|Win32
+		{4C9E2F91-5F03-418F-8B08-EEA732AEC4B8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
