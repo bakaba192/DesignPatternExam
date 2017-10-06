@@ -11,6 +11,7 @@ public:
 class Dager : public Weapon
 {
 public:
+
 	void attack() override
 	{
 		cout << "단검공격" << endl;
